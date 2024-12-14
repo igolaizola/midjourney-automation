@@ -85,6 +85,8 @@ The album interface provides several features:
 - Open images in new tabs for detailed viewing
 - Download selected images as a ZIP file
 
+Here's an example album showcasing some generated images so you can see how your results will be displayed: [Browse Example Gallery](https://igolaizola.github.io/midjourney-automation/)
+
 ## ⚠️ Usage Guidelines and Best Practices
 
 ### Account Safety
