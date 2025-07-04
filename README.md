@@ -1,6 +1,10 @@
 # Midjourney Automation
 
-You can use Midjourney Automation directly form APIFY platform [apify.com/igolaizola/midjourney-automation](https://apify.com/igolaizola/midjourney-automation)
+> [!TIP]
+>
+> You can use Midjourney Automation directly from APIFY platform [apify.com/igolaizola/midjourney-automation](https://apify.com/igolaizola/midjourney-automation)
+>
+> If you want to generate videos instead, check out [apify.com/igolaizola/midjourney-video-automation](https://apify.com/igolaizola/midjourney-video-automation)
 
 ## 🎨 What does Midjourney Automation do?
 
